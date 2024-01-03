@@ -1,1 +1,2 @@
-L
+LAB: CodepathMail
+PROJECT: Wishlist
