@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TapCount</string>
+    <string name="txt_button_tap">TAP</string>
+    <string name="txt_button_upgrade">2X TAP UPGRADE</string>
+    <string name="txt_counter">0</string>
+</resources>
