@@ -1,2 +1,0 @@
-LAB: CodepathMail
-PROJECT: Wishlist
