@@ -3,4 +3,4 @@ By the end of the semester, I was able to work in a team with 3 of my classmates
 
 1 - Hello World
 
-![](https://github.com/lorenzolopez99/Android-Development/tree/main/1%20-%20HelloWorld/helloworld.gif)
+![](https://github.com/lorenzolopez99/Android-Development/blob/main/1%20-%20HelloWorld/helloworld.gif)
