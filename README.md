@@ -15,6 +15,7 @@ By the end of the semester, I was able to work in a team with 3 of my classmates
 ![](https://github.com/lorenzolopez99/Android-Development/blob/main/3%20-%20Wordle/wordle.gif)
 
 4 - Wishlist
+
 ![](https://github.com/lorenzolopez99/Android-Development/blob/main/4%20-%20Wishlist/wishlist.gif)
 
 5 - Best Sellers List
